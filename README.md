@@ -12,7 +12,7 @@
     <br>
     <a>Yuanhao Feng</a><sup>4</sup>,&nbsp
     <a>Bo Wang</a><sup>4</sup>,&nbsp
-    <a href="https://xyue.io/" target="_blank">Xiangyu Yue</a><sup>5*</sup>
+    <a href="https://scholar.google.com/citations?user=-xQ-C1sAAAAJ&hl=zh-CN" target="_blank">Xiangyu Yue</a><sup>5*</sup>
   </p>
   <p>
     <sup>1</sup> Shenyang Institute of Automation, Chinese Academy of Sciences
