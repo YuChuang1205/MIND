@@ -36,7 +36,7 @@
 
 
 ## ✅ TODO List
-We are finalizing the release of the paper, dataset and code and aim to complete it as soon as possible. Please stay tuned! 
+We are finalizing the release of the paper, dataset and code and aim to complete it as soon as possible. Please stay tuned! ⚡⚡⚡
 - [ ] Release paper.
 - [ ] Release training and inference code.
 - [ ] Release ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets.
