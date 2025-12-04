@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border-bottom: none;">Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h1>
+  <h1 style="border-bottom: none;">MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models</h1>
 </div>
 
 <div align="center">
