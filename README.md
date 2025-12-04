@@ -24,3 +24,10 @@
     <sup>5</sup> MMLab, The Chinese University of Hong Kong
   </p>
 </div>
+
+
+<div align="center">
+<br>
+  <img width="100%" src="imgs/MIND-Overview.png" alt="MIND Overview">
+<br>
+</div>
