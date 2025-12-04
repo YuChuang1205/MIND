@@ -25,6 +25,12 @@
   </p>
 </div>
 
+<div align="center">
+<br>
+  <img width="80%" src="imgs/MIND-Understand-Rethink-Correct.png" alt="MIND-Understand-Rethink-Correct">
+<br>
+  <b><span style="font-size: 40px;">Understand → Rethink → Correct</span></b>
+</div>
 
 ## 🚀 Overview
 <div align="center">
