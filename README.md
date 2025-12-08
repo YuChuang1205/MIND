@@ -24,6 +24,13 @@
     <sup>5</sup> MMLab, The Chinese University of Hong Kong
   </p>
 </div>
+<p align="center">
+  <a href="https://arxiv.org/abs/2512.05530"><img src="https://img.shields.io/static/v1?label=Arxiv&message=2512.05530&color=green&logo=arxiv"></a>
+  <a href="https://github.com/YuChuang1205"><img src="https://img.shields.io/badge/Homepage-YuChuang1205-red.svg"></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg"></a> -->
+  <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg"></a>
+</p>
 
 
 ## 💥 Abstract
