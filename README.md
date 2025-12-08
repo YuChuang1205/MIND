@@ -56,7 +56,7 @@ Recently, multimodal large language models (MLLMs) have been widely applied to r
 
 ## ✅ TODO List
 We are finalizing the release of the paper, dataset and code and aim to complete it as soon as possible. Please stay tuned! ⚡⚡⚡
-- [ ] Release paper.
+- [X] Release paper.  [[Paper/arXiv](https://arxiv.org/abs/2512.05530)]
 - [ ] Release training and inference code.
 - [ ] Release ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets.
 - [ ] Release model weights.
