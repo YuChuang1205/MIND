@@ -34,7 +34,7 @@
 </p>
 
 ## 🔥 News
--2026.03 🌸🌸 We have successfully adapted MIND to Qwen2.5-VL, Qwen3.5-VL, and Qwen3.5. the code will be open-sourced shortly.  
+-2026.03 🌸🌸 We have successfully adapted MIND to Qwen2.5-VL, Qwen3.5-VL, and Qwen3.5. Preliminary experimental results show a significant improvement in performance. the code will be open-sourced shortly.  
 -2026.03 🌟🌟 We have released the complete code.  
 -2025.12 🌟🌟 We have released the MIND manuscript.  
 
