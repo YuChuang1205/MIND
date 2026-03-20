@@ -8,7 +8,7 @@
     <a href="https://scholar.google.com/citations?user=3cBa6r4AAAAJ&hl=zh-CN" target="_blank">Jinmiao Zhao</a><sup>1,2</sup>,&nbsp
     <a>Mingxuan Zhao</a><sup>3</sup>,&nbsp
     <a>Yunpeng Liu</a><sup>1*</sup>,&nbsp
-    <a>Xiujun Shu</a><sup>4</sup>,
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=H2VT_y4AAAAJ" target="_blank">Xiujun Shu</a><sup>4</sup>,
     <br>
     <a>Yuanhao Feng</a><sup>4</sup>,&nbsp
     <a>Bo Wang</a><sup>4</sup>,&nbsp
