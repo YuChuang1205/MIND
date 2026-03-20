@@ -132,6 +132,7 @@ BibTeX reference is as follows.
 }
 ```
 
-## Thanks
-**Thanks to Pan Lu, Dustin Schwenk, and Qiguang Chen for providing the original dataset, and to Zhuosheng Zhang for open-sourcing Multimodal-CoT.**
+
+## Acknowledgements
+Thanks to **Pan Lu**, **Dustin Schwenk**, and **Qiguang Chen** for providing the original dataset, and to **Zhuosheng Zhang** for open-sourcing Multimodal-CoT. 😊😊😊 
 
