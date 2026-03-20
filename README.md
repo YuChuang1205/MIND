@@ -69,7 +69,7 @@ Recently, multimodal large language models (MLLMs) have been widely applied to r
 
 1. Download the dataset
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [download datasets](https://pan.baidu.com/s/1i4hMsY2ldQG3-cumrbNx-w?pwd=1234) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [download datasets]() 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unzip the downloaded compressed package to the root directory of the project.
 
