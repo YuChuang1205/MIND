@@ -116,3 +116,21 @@ We are finalizing the release of the paper, dataset and code and aim to complete
 - [X] Release paper.  [[Paper/arXiv](https://arxiv.org/abs/2512.05530)]
 - [X] Release training and inference code.
 - [ ] Release ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets.
+
+
+## Citation
+
+If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **MIND** if it benefits your project. <br>  
+
+BibTeX reference is as follows.
+```
+@article{yu2025mind,
+  title={MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models},
+  author={Yu, Chuang and Zhao, Jinmiao and Zhao, Mingxuan and Liu, Yunpeng and Shu, Xiujun and Feng, Yuanhao and Wang, Bo and Yue, Xiangyu},
+  journal={arXiv preprint arXiv:2512.05530},
+  year={2025}
+}
+```
+
+
+
