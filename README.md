@@ -59,6 +59,58 @@ Recently, multimodal large language models (MLLMs) have been widely applied to r
 
 
 
+## Datasets
+
+* **ScienceQA-RAD** [[The Prepared Dataset]()] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
+* **A-OKVQA-RAD** [[The Prepared Dataset]()] [[The original paper for the original dataset](https://arxiv.org/abs/2206.01718)]
+* **M3CoT-RAD** [[The Prepared Dataset]()] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
+
+## How to use our code
+
+1. Download the dataset
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [download datasets](https://pan.baidu.com/s/1i4hMsY2ldQG3-cumrbNx-w?pwd=1234) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unzip the downloaded compressed package to the root directory of the project.
+
+2. Creat a Anaconda Virtual Environment
+
+    ```
+    conda create -n MIND python=3.10 
+    conda activate MIND 
+    ```
+3. Configure the running environment
+   
+   ```
+   pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126 
+   pip install openai==0.23.0 
+   pip install pandas==1.4.3 
+   pip install rouge==1.0.1 
+   pip install sentence-transformers==2.2.2 
+   pip install nltk==3.6.6 
+   pip install evaluate==0.4.0 
+   pip install rouge==1.0.1 
+   pip install rouge_score==0.1.2 
+   pip install rich>=13.3.2 
+   pip install huggingface_hub==0.25.0  
+   pip install transformers==4.31.0 
+   pip install accelerate -U 
+   pip install torchmetrics  
+   pip install termcolor  
+   pip install numpy==1.26.4 
+   pip install ijson  
+   pip install deepspeed==0.18.6  
+   python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+   ```
+4. Training and test the model  
+    ```
+    sh ./run_training.sh
+    ```
+5. Perform inference on each phase of the model independently. (This step is only provided for standalone inference testing purposes.)
+    ```
+    sh ./run_inference.sh
+    ```
+
 ## ✅ TODO List
 We are finalizing the release of the paper, dataset and code and aim to complete it as soon as possible. Please stay tuned! ⚡⚡⚡
 - [X] Release paper.  [[Paper/arXiv](https://arxiv.org/abs/2512.05530)]
