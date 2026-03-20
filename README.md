@@ -116,7 +116,7 @@ We are finalizing the release of the paper, dataset and code and aim to complete
 - [X] Release paper.  [[Paper/arXiv](https://arxiv.org/abs/2512.05530)]
 - [X] Release training and inference code.
 - [ ] Release ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets.
-
+- [ ] Release the extension code for our MIND adaptation to **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**
 
 ## Citation
 
