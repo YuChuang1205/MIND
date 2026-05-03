@@ -34,6 +34,7 @@
 </p>
 
 ## 🔥 News
+-2026.05 🎉🎉 The paper (**MIND**) have been accepted by **ICML 2026**.  
 -2026.03 🌟🌟 We have released the **complete ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets**.   
 -2026.03 🌸🌸 We have successfully adapted MIND to **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**. Preliminary experimental results show a significant improvement in performance. the extension code will be open-sourced shortly.  
 -2026.03 🌟🌟 We have released the **complete code**.  
