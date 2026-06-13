@@ -21,6 +21,3 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
     --output_dir experiments_y_001 \
     --eval_le experiments_y_001/rationale_declare-lab-flan-alpaca-base_blip2_flant5_xxl_QCM-E_lr8e-05_bs8_op512_ep200/predictions_ans_eval.json \
     --test_le experiments_y_001/rationale_declare-lab-flan-alpaca-base_blip2_flant5_xxl_QCM-E_lr8e-05_bs8_op512_ep200/predictions_ans_test.json
-CUDA_VISIBLE_DEVICES=0 python test.py --size 60000 --gpus 1 --interval 0.01;
-
-
