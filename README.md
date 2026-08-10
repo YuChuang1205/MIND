@@ -130,6 +130,12 @@ We are finalizing the release of the paper, dataset and code and aim to complete
 - [X] Release ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets.
 - [ ] Release the extension code for our MIND adaptation to **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**
 
+<a id="poster"></a>
+## 💥 Poster 
+<p align="center">
+  <img src="imgs/ICML-MIND-poster.png" alt="Main results" width="1000"/></br>
+</p> 
+
 ## Citation
 
 If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **MIND** if it benefits your project. <br>  
@@ -143,12 +149,6 @@ BibTeX reference is as follows.
   year={2025}
 }
 ```
-
-<a id="poster"></a>
-## 💥 Poster 
-<p align="center">
-  <img src="imgs/ICML-MIND-poster.png" alt="Main results" width="1000"/></br>
-</p> 
 
 ## Acknowledgements
 Thanks to **Pan Lu**, **Dustin Schwenk**, and **Qiguang Chen** for providing the original dataset, and to **Zhuosheng Zhang** for open-sourcing Multimodal-CoT. 😊😊😊 
