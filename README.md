@@ -34,6 +34,15 @@
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg"></a>
 </p>
 
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2512.05530"><strong>Accepted by ICML2026</strong></a>
+   &nbsp;&nbsp;
+  <a href="https://zhuanlan.zhihu.com/p/2052496387728732408"><strong>知乎解读</strong></a>
+  &nbsp;&nbsp;
+  <a href="#poster"><strong>Poster</strong></a>
+</p>
+
 ## 🔥 News
 -2026.05 🎉🎉 The paper (**MIND**) have been accepted by **ICML 2026**.  
 -2026.03 🌟🌟 We have released the **complete ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets**.   
@@ -135,6 +144,11 @@ BibTeX reference is as follows.
 }
 ```
 
+<a id="poster"></a>
+## 💥 Poster 
+<p align="center">
+  <img src="imgs/ICML-MIND-poster.png" alt="Main results" width="1000"/></br>
+</p> 
 
 ## Acknowledgements
 Thanks to **Pan Lu**, **Dustin Schwenk**, and **Qiguang Chen** for providing the original dataset, and to **Zhuosheng Zhang** for open-sourcing Multimodal-CoT. 😊😊😊 
