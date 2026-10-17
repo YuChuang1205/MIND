@@ -44,6 +44,8 @@
 </p>
 
 ## 🔥 News
+-2026.10 🌟🌟 For the integration of **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**, please refer to the [**Project Code**](https://github.com/YuChuang1205/ReState).  
+-2026.10 🌟🌟 Welcome to fellow our new work. ([**ReState**](https://github.com/YuChuang1205/ReState)).  
 -2026.05 🎉🎉 The paper (**MIND**) have been accepted by **ICML 2026**.  
 -2026.03 🌟🌟 We have released the **complete ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets**.   
 -2026.03 🌸🌸 We have successfully adapted MIND to **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**. Preliminary experimental results show a significant improvement in performance. the extension code will be open-sourced shortly.  
@@ -122,14 +124,14 @@ Recently, multimodal large language models (MLLMs) have been widely applied to r
     ```
     sh ./run_inference.sh
     ```
-
+<!--
 ## ✅ TODO List
 We are finalizing the release of the paper, dataset and code and aim to complete it as soon as possible. Please stay tuned! ⚡⚡⚡
 - [X] Release paper.  [[Paper/arXiv](https://arxiv.org/abs/2512.05530)]
 - [X] Release training and inference code.
 - [X] Release ScienceQA-RAD, V-OKVQA-RAD, and M3CoT-RAD  datasets.
-- [ ] Release the extension code for our MIND adaptation to **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**
-
+- [X] Release the extension code for our MIND adaptation to **Qwen2.5-VL**, **Qwen3-VL**, and **Qwen3.5**
+ -->
 <a id="poster"></a>
 ## 💥 Poster 
 <p align="center">
