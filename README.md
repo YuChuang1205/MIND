@@ -75,9 +75,9 @@ Recently, multimodal large language models (MLLMs) have been widely applied to r
 
 ## Datasets
 
-* **ScienceQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
-* **A-OKVQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/a47763be1d88)] [[The original paper for the original dataset](https://arxiv.org/abs/2206.01718)]
-* **M3CoT-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
+* **ScienceQA-RAD** [[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/ScienceQA-RAD-Version)][[Quark Cloud Drive](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
+* **A-OKVQA-RAD** [[[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/A-OKVQA-RAD-Version)]][[Quark Cloud Drive](https://pan.quark.cn/s/a47763be1d88)] [[The original paper for the original dataset](https://arxiv.org/abs/2206.01718)]
+* **M3CoT-RAD** [[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/M3CoT-RAD-Version)][[Quark Cloud Drive](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
 
 ## How to use our code
 
